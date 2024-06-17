@@ -43,7 +43,7 @@ As of this writing: variants of the Trackpad/Touchpad, platform-specific Home/Al
 
 ### Question 4: Which Image Editor, File Format and Fonts was used for this asset pack?
 
-This asset pack was created using [Inkscape](https://inkscape.org/) and [GIMP](https://www.gimp.org/). 
+This asset pack was created using [Inkscape](https://inkscape.org/). 
 
 All images formats are Inkscape SVG. For Image Editing: I recommend Inkscape for the best experience.
 

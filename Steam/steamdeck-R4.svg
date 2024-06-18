@@ -25,7 +25,7 @@
      inkscape:document-units="mm"
      inkscape:zoom="4.0515993"
      inkscape:cx="65.529679"
-     inkscape:cy="99.590303"
+     inkscape:cy="99.837119"
      inkscape:window-width="2560"
      inkscape:window-height="1351"
      inkscape:window-x="-9"
@@ -42,7 +42,7 @@
     <g
        id="rect2"
        inkscape:label="Style - Outline (White)"
-       style="display:inline">
+       style="display:none">
       <path
          style="color:#000000;fill:#ffffff;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
          d="m 89.904938,126.52783 h 43.009572 c 2.76621,0 4.99315,2.11551 4.99315,4.7433 v 40.85744 c 0,2.62779 -2.22694,4.7433 -4.99315,4.7433 H 89.904938 c -2.766204,0 -4.993149,-2.11551 -4.993149,-4.7433 v -40.85744 c 0,-2.62779 2.226945,-4.7433 4.993149,-4.7433 z"
@@ -64,7 +64,7 @@
     <g
        id="g11"
        inkscape:label="Style - Outline (Black)"
-       style="display:inline">
+       style="display:none">
       <path
          style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
          d="m 89.904938,126.52783 h 43.009572 c 2.76621,0 4.99315,2.11551 4.99315,4.7433 v 40.85744 c 0,2.62779 -2.22694,4.7433 -4.99315,4.7433 H 89.904938 c -2.766204,0 -4.993149,-2.11551 -4.993149,-4.7433 v -40.85744 c 0,-2.62779 2.226945,-4.7433 4.993149,-4.7433 z"

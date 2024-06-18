@@ -5,7 +5,7 @@
 
 This is a collection of Controller Prompt icons intended for modularity while having the look and feel of Steam Input API button icons. 
 
-Download: Coming soon. (In the meantime: I suggest Downloading the Zip or Clone the repository)
+Download: [CLICK ME](https://github.com/AL2009man/Gamepad-Prompt-Asset-Pack/releases/tag/Public)
 
 
 ---

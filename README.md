@@ -1,9 +1,9 @@
 # Gamepad Prompt Asset Pack by AL2009man
 
-![Gamepad Prompt Asset Pack promo](https://github.com/AL2009man/Gamepad-Prompt-Asset-Pack/assets/67606569/f8ebbfbe-12dc-446c-b206-ec26093ea881)
+![Gamepad Prompt Asset Pack promo alternative](https://github.com/AL2009man/Gamepad-Prompt-Asset-Pack/assets/67606569/1f8a18ba-b2de-43d2-9f7e-18b7b5293951)
 
 
-This is a collection of Controller Prompt icons intended for modularity while having the look and feel of Steam Input API button icons. 
+This collection of Controller Prompt icons is intended for modularity while having the look and feel of Steam Input API button icons. 
 
 Download: [CLICK ME](https://github.com/AL2009man/Gamepad-Prompt-Asset-Pack/releases/tag/Public)
 
@@ -46,12 +46,12 @@ A. The vast majority of Xbox, PlayStation, Nintendo and Steam's family of input 
 
 For specific prompts like the Face buttons: we have alternative versions of each button prompt, so if you want the colored version of the A button or the defaulted transparent A Button...or you just want the "South" Button; you can use those prompts that suit your specific needs...or can't be bothered to support every Controller Types.
 
-![buttonpromptvariants](https://github.com/AL2009man/Gamepad-Prompt-Asset-Pack/assets/67606569/6e5e6179-acae-49e0-b847-44b0bf2421e6)
+![buttonpromptvariants twitter fix](https://github.com/AL2009man/Gamepad-Prompt-Asset-Pack/assets/67606569/7219446d-61e7-4ad5-bb48-29639adb86a9)
+
 
 Every prompt image will come with three variants: the "Transparent" style, the "Black" style and the "White" style. Depending on what kind of prompt you wanna show in a specific UI color language: these will be sutied well.
 
-![buttonpromptvariant2](https://github.com/AL2009man/Gamepad-Prompt-Asset-Pack/assets/67606569/9098668b-3f21-4b69-9ba7-1f14f4a1d49e)
-
+![buttonpromptvariants1 twitter fix](https://github.com/AL2009man/Gamepad-Prompt-Asset-Pack/assets/67606569/49d4c977-a27e-4e4b-a77b-d11c9db5a56b)
 
 These variants will be included within a single image file's group/layer, using with the same principles set in the Gamepad Asset Pack.
 

@@ -1,7 +1,6 @@
 # Gamepad Prompt Asset Pack by AL2009man
 
-![Gamepad Prompt Asset Pack promo alternative](https://github.com/AL2009man/Gamepad-Prompt-Asset-Pack/assets/67606569/1f8a18ba-b2de-43d2-9f7e-18b7b5293951)
-
+![Gamepad Prompt Asset Pack promo alternative](https://github.com/AL2009man/Gamepad-Prompt-Asset-Pack/assets/67606569/aa1b6e48-1bf1-4c03-be96-5c5def124516)
 
 This collection of Controller Prompt icons is intended for modularity while having the look and feel of Steam Input API button icons. 
 

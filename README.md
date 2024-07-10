@@ -90,3 +90,6 @@ As long as you credit this project (as per [MIT License](https://github.com/AL20
 
 98% of the assets can freely be used, certain assets like the DualSense's Mute Button and Nintendo Switch's Home Button might have to be replaced with an equivalent one, but these icons will be replaced in future versions.
 
+### Question 3:  Console Certification has failed due to mismatched button prompts. 
+
+Please report this issue directly to [this issue report page](https://github.com/AL2009man/Gamepad-Prompt-Asset-Pack/issues/6) and I'll try to address them as best as I can. I can't fully guarantee you that a specific fix will give them an A-OK from the Console Manufacture.

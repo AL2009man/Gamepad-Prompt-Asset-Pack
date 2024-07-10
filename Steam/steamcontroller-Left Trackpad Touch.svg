@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="4"
-     inkscape:cx="108.5"
-     inkscape:cy="118"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="80.079844"
+     inkscape:cy="168.99852"
      inkscape:window-width="2560"
-     inkscape:window-height="1351"
+     inkscape:window-height="1344"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="circle3" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs1" />
   <g
@@ -60,7 +60,7 @@
       <g
          id="g1"
          inkscape:label="D-Pad"
-         style="display:inline"
+         style="display:inline;opacity:0.3"
          transform="translate(-6.2499998e-7,1.45625e-5)">
         <path
            style="display:inline;fill:#cdcdcd;fill-opacity:1;stroke:none;stroke-width:0.282842;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
@@ -113,7 +113,7 @@
       <g
          id="g13"
          inkscape:label="D-Pad"
-         style="display:inline"
+         style="display:inline;opacity:0.3"
          transform="translate(-6.2499998e-7,1.45625e-5)">
         <path
            style="display:inline;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.282842;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
@@ -166,7 +166,7 @@
       <g
          id="g15"
          inkscape:label="D-Pad"
-         style="display:inline"
+         style="display:inline;opacity:0.3"
          transform="translate(-1.4166666e-6,1.5e-5)">
         <path
            style="display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.282842;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"

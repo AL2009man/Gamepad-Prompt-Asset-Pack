@@ -12,12 +12,12 @@ Download: [CLICK ME](https://github.com/AL2009man/Gamepad-Prompt-Asset-Pack/rele
 # Asset List:
 
 **Controller Prompts**: 
-* Generic
-  * Universal Face Button
+* Shared/Generic
+  * Universal Face Button, Apple MFi
 * Xbox
-  * Xbox Wireless Controller, Xbox 360 Controller
+  * Xbox Wireless Controller, Xbox Elite Controllers, Xbox 360 Controller
 * PlayStation
-   * DualSense, DualShock 4, DualShock 3
+   * DualSense, DualSense Edge, DualShock 4, DualShock 3
 * Nintendo
    * Nintendo Switch Controllers, Wii Controllers, GameCube Controller
 * Steam

@@ -16,6 +16,8 @@ Download: [CLICK ME](https://github.com/AL2009man/Gamepad-Prompt-Asset-Pack/rele
   * Universal Face Button, Apple MFi
 * Xbox
   * Xbox Wireless Controller, Xbox Elite Controllers, Xbox 360 Controller
+* DirectInput
+  * Up to 32 button prompts
 * PlayStation
    * DualSense, DualSense Edge, DualShock 4, DualShock 3
 * Nintendo

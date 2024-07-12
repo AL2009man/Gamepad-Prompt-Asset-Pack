@@ -90,7 +90,7 @@ As long as you credit this project (as per [MIT License](https://github.com/AL20
 
 ### Question 2: Can I use this Asset Pack for my commercially released game/planned to be released commercially? (i.e.: releasing on Steam, GOG, Epic Games Store, Microsoft/Xbox Store, PlayStation Store, etc.) 
 
-98% of the assets can freely be used, certain assets like the DualSense's Mute Button and Nintendo Switch's Home Button might have to be replaced with an equivalent one, but these icons will be replaced in future versions.
+99% of the assets can freely be used, with a sole exception for platform-based Guide buttons.
 
 ### Question 3:  Console Certification has failed due to mismatched button prompts. 
 

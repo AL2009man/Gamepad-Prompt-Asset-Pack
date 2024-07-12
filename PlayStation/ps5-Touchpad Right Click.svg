@@ -24,10 +24,10 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="2.8649134"
-     inkscape:cx="246.25526"
-     inkscape:cy="134.90809"
+     inkscape:cx="246.42979"
+     inkscape:cy="135.08262"
      inkscape:window-width="2560"
-     inkscape:window-height="1351"
+     inkscape:window-height="1344"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -42,7 +42,7 @@
     <g
        id="path1"
        inkscape:label="Style - Outline (White)"
-       style="display:inline">
+       style="display:none">
       <path
          style="color:#000000;fill:#ffffff;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
          d="M 52.637317,132.95778 H 171.48405 c 4.55997,0 8.77534,3.70364 8.23098,8.23098 l -6.20858,51.63538 c -0.4944,4.11186 -3.33412,7.47561 -7.47562,7.47561 H 58.090541 c -4.141502,0 -6.981229,-3.36375 -7.475634,-7.47561 l -6.208573,-51.63538 c -0.544362,-4.52734 3.671018,-8.23098 8.230983,-8.23098 z"
@@ -74,7 +74,7 @@
     <g
        id="g7"
        inkscape:label="Style - Outline (Black)"
-       style="display:inline">
+       style="display:none">
       <path
          style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
          d="M 52.637317,132.95778 H 171.48405 c 4.55997,0 8.77534,3.70364 8.23098,8.23098 l -6.20858,51.63538 c -0.4944,4.11186 -3.33412,7.47561 -7.47562,7.47561 H 58.090541 c -4.141502,0 -6.981229,-3.36375 -7.475634,-7.47561 l -6.208573,-51.63538 c -0.544362,-4.52734 3.671018,-8.23098 8.230983,-8.23098 z"
